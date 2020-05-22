@@ -1,3 +1,5 @@
+![](/Logo_horizontal.png)
+
 **** 
 
 # Welcome to WhiteLab Genomics list of resources related to our technology stack.
@@ -12,7 +14,7 @@
 
 - [Appolo](https://www.apollographql.com/). Simplify app development by combining APIs, databases, and microservices into a single data graph that you can query with GraphQL
 
-- [Grandstack](https://grandstack.io/) combines Neo4J, GraphQL, React & Appolo. 
+- [Grandstack](https://grandstack.io/) combines Neo4J, GraphQL, React & Appolo. Interesting tutorials on the webpage)
 
 - [Node](https://nodejs.org/en/). 
 
