@@ -1,4 +1,4 @@
-![](/Logo_horizontal.png)
+![](/home/Logo_horizontal.png)
 
 **** 
 
